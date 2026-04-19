@@ -1,9 +1,10 @@
 import java.util.HashMap;
-import java.util.Map
+import java.util.Map;
 
 public class TASK2 {
     static void main(String[] args) {
         String[] strings = {"this", "and", "that", "and"};
+        System.out.println(wordLen(strings));
 
 
     }
