@@ -16,8 +16,7 @@ public class TASK3 {
             map.put(key, value);
         }
 
-        retu
-        rn map;
+        return map;
     }
 }
 
