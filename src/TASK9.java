@@ -1,6 +1,6 @@
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Arrays
+import java.util.Arrays;
 
 public class TASK9 {
     static void main(String[] args) {
