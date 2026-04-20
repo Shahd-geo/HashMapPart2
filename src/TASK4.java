@@ -3,6 +3,8 @@ import java.util.Map;
 
 public class TASK4 {
     static void main(String[] args) {
+        String[] STRINGS={"a", "b", "a", "c", "b"};
+        System.out.println(WORDCOUNT(STRINGS));
 
     }
     public static Map<String,Integer>WORDCOUNT(String[] STRINGS){
