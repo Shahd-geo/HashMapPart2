@@ -9,6 +9,7 @@ public class TASK9 {
          Map<String,Integer>map=new HashMap<>();
          for (int i = 0;i<strings.length;i++){
              String WORD=strings[i];
+             Integer index=WORD.substring(0,1);
 
          }
      }
