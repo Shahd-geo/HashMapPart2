@@ -1,3 +1,4 @@
+import java.util.HashMap;
 import java.util.Map;
 
 public class TASK4 {
@@ -5,6 +6,13 @@ public class TASK4 {
 
     }
     public static Map<String,Integer>WORDCOUNT(String[] STRINGS){
+        Map<String,Integer>MAP=new HashMap<>();
+        for (String WORD:STRINGS){
+            if (MAP.containsKey(WORD)){
+                MAP.put()
+
+            }
+        }
 
     }
 }
