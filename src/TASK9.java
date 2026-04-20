@@ -3,10 +3,11 @@ import java.util.Map;
 
 public class TASK9 {
     static void main(String[] args) {
-        String[] strings=
+        String[] strings={"ab", "ac"};
+        System.out.println();
 
      }
-     public static String[]firstSwap(String[] strings){
+     public static String[]fairstSwp(String[] strings){
          Map<String,Integer>map=new HashMap<>();
          for (int i = 0;i<strings.length;i++){
              String WORD=strings[i];
