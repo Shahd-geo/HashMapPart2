@@ -26,6 +26,6 @@ public class TASK9 {
              }
 
          }
-         return map;
+         return strings;
      }
 }
