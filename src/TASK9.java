@@ -6,6 +6,9 @@ public class TASK9 {
 
      }
      public static String[]firstSwap(String[] strings){
-         Map<String,Integer>map=new HashMap<>()
+         Map<String,Integer>map=new HashMap<>();
+         for (int i = 0;i<strings.length;i++){
+
+         }
      }
 }
