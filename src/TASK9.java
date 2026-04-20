@@ -10,6 +10,9 @@ public class TASK9 {
          for (int i = 0;i<strings.length;i++){
              String WORD=strings[i];
              String FRISTPART =WORD.substring(0,1);
+             if (map.containsKey(FRISTPART)){
+
+             }
 
          }
      }
