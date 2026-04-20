@@ -4,7 +4,7 @@ import java.util.Map;
 public class TASK6 {
     static void main(String[] args) {
         String[] strings={"a", "b", "a"};
-        System.out.println();
+        System.out.println(wordAppend(strings));
 
     }
     public static String wordAppend(String[] strings) {
