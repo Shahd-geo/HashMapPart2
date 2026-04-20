@@ -9,10 +9,13 @@ public class TASK4 {
         Map<String,Integer>MAP=new HashMap<>();
         for (String WORD:STRINGS){
             if (MAP.containsKey(WORD)){
-                MAP.put()
+                MAP.put(WORD,MAP.get(WORD)+1);
 
+            }else {
+                MAP.put(WORD,1);
             }
         }
+        return MAP;
 
     }
 }
