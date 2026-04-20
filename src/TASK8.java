@@ -1,9 +1,11 @@
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Arrays;
 
 public class TASK8 {
     static void main(String[] args) {
-        String[]strings=
+        String[]strings={"ab", "ac"};
+        System.out.println(Arrays.toString(allSwap(strings)));
 
     }
     public static String[] allSwap(String[]strings){
