@@ -1,10 +1,11 @@
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Arrays
 
 public class TASK9 {
     static void main(String[] args) {
         String[] strings={"ab", "ac"};
-        System.out.println(firstSwap(strings));
+        System.out.println(Arrays.toString(firstSwap(strings)));
 
      }
      public static String[]firstSwap(String[] strings){
