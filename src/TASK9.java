@@ -17,6 +17,7 @@ public class TASK9 {
                  String SWAAP =strings[i];
                  strings[i]=strings[index];
                  strings[index]=SWAAP;
+                 map.put(FRISTPART,-1);
 
 
              }else{
