@@ -11,6 +11,9 @@ public class TASK9 {
              String WORD=strings[i];
              String FRISTPART =WORD.substring(0,1);
              if (map.containsKey(FRISTPART)){
+                 int index=map.get(FRISTPART);
+                 String SWAAP =strings[i];
+
 
              }
 
