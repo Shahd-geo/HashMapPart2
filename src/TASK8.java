@@ -24,6 +24,6 @@ public class TASK8 {
             }
 
         }
-        return strings;
+      ///  return strings;
     }
 }
